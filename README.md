@@ -8,7 +8,8 @@ Read more about creating a library [in the docs](https://kit.svelte.dev/docs/pac
 https://www.youtube.com/watch?v=n8Kk7uvsx9A ,
 https://svelte.dev/repl/ca0fbda83f654f5a8829282a59f511f1?version=4.2.3 ,
 
-
+## Netlify Link:
+https://main--lucent-wisp-32a3e1.netlify.app/
 
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
